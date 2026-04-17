@@ -1,3 +1,7 @@
+# Bild 
+<img width="1690" height="1540" alt="Wie dachte Richard Feynman" src="https://github.com/user-attachments/assets/7fc97551-73e2-4adc-a3dd-3f0f518b5719" />
+Höhere Auflösung: https://drive.google.com/file/d/1Bckv90T6gjJevv5Hj9VWD8I3il-EkNpY/view?usp=sharing
+
 # Bild und Videoquellen
 (1): https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/RichardFeynman-PaineMansionWoods1984_copyrightTamikoThiel_bw.jpg/250px-RichardFeynman-PaineMansionWoods1984_copyrightTamikoThiel_bw.jpg
 (2): https://c02.purpledshub.com/uploads/sites/41/2021/10/Feynman-diagram-example-786898e.jpg?webp=1&w=1200
